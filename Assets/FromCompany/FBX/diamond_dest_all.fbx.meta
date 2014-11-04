@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 6c8a1688e23304827b94aae487d35211
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: diamond_after_001
+    100002: diamond_after_002
+    100004: diamond_after_003
+    100006: diamond_after_004
+    100008: diamond_after_005
+    100010: diamond_after_006
+    100012: diamond_after_007
+    100014: diamond_after_008
+    100016: diamond_after_009
+    100018: diamond_after_010
+    100020: diamond_after_011
+    100022: diamond_after_012
+    100024: diamond_after_pivot
+    100026: diamond_before
+    100028: diamond_before_pivot
+    100030: //RootNode
+    400000: diamond_after_001
+    400002: diamond_after_002
+    400004: diamond_after_003
+    400006: diamond_after_004
+    400008: diamond_after_005
+    400010: diamond_after_006
+    400012: diamond_after_007
+    400014: diamond_after_008
+    400016: diamond_after_009
+    400018: diamond_after_010
+    400020: diamond_after_011
+    400022: diamond_after_012
+    400024: diamond_after_pivot
+    400026: diamond_before
+    400028: diamond_before_pivot
+    400030: //RootNode
+    2300000: diamond_after_001
+    2300002: diamond_after_002
+    2300004: diamond_after_003
+    2300006: diamond_after_004
+    2300008: diamond_after_005
+    2300010: diamond_after_006
+    2300012: diamond_after_007
+    2300014: diamond_after_008
+    2300016: diamond_after_009
+    2300018: diamond_after_010
+    2300020: diamond_after_011
+    2300022: diamond_after_012
+    2300024: diamond_before
+    3300000: diamond_after_001
+    3300002: diamond_after_002
+    3300004: diamond_after_003
+    3300006: diamond_after_004
+    3300008: diamond_after_005
+    3300010: diamond_after_006
+    3300012: diamond_after_007
+    3300014: diamond_after_008
+    3300016: diamond_after_009
+    3300018: diamond_after_010
+    3300020: diamond_after_011
+    3300022: diamond_after_012
+    3300024: diamond_before
+    4300000: diamond_before
+    4300002: diamond_after_001
+    4300004: diamond_after_002
+    4300006: diamond_after_003
+    4300008: diamond_after_004
+    4300010: diamond_after_005
+    4300012: diamond_after_006
+    4300014: diamond_after_008
+    4300016: diamond_after_009
+    4300018: diamond_after_010
+    4300020: diamond_after_011
+    4300022: diamond_after_012
+    4300024: diamond_after_007
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
