@@ -11,8 +11,6 @@ public class CameraMove : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		transform.Translate (0,0,cameraspeed*Time.deltaTime);
-//		transform.position
-//			transform.rigidbody
 	}
 	void OnTriggerEnter(Collider other)
 	{
@@ -28,11 +26,6 @@ public class CameraMove : MonoBehaviour {
 			Debug.Log("game over");		
 		}
 
-		transform.GetComponent<Animator> ().SetBool ("cameracontact",true);
-//		transfo
-	}
-	public void AfterShake()
-	{
-		transform.GetComponent<Animator> ().SetBool ("cameracontact",false);
+		transform.GetComponent<Animator> ().SetTrigger ("cameracontact");
 	}
 }
