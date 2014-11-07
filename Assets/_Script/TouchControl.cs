@@ -22,7 +22,7 @@ public class TouchControl : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		shootingballmode = 1;
-		ballnumber = 10;
+		ballnumber = 2;
 		ballmodecounter = 0;
 	}
 	public void detector()

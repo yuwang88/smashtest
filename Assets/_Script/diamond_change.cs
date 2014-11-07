@@ -4,6 +4,7 @@ using System.Collections;
 public class diamond_change : MonoBehaviour {
 	public Transform aftercollison;
 	public Transform number;
+	public Transform bomb;
 	// Use this for initialization
 	void Start () {
 	
@@ -24,6 +25,7 @@ public class diamond_change : MonoBehaviour {
 		GameObject.Destroy(transform.parent.gameObject);
 		Instantiate (aftercollison,transform.parent.position,transform.parent.rotation);
 		Instantiate (number,transform.position,transform.rotation);
+		Instantiate (bomb,transform.position,transform.rotation);
 	}
 	// Update is called once per frame
 	void Update () {

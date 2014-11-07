@@ -435,8 +435,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 677dfc72693c345daa38343508812b59, type: 2}
-  - {fileID: 2100000, guid: 9e3a744b10dda409384574fa46a9897d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -456,8 +456,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 677dfc72693c345daa38343508812b59, type: 2}
-  - {fileID: 2100000, guid: 9e3a744b10dda409384574fa46a9897d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -477,7 +477,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 677dfc72693c345daa38343508812b59, type: 2}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -497,8 +497,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 677dfc72693c345daa38343508812b59, type: 2}
-  - {fileID: 2100000, guid: 9e3a744b10dda409384574fa46a9897d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -518,8 +518,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 677dfc72693c345daa38343508812b59, type: 2}
-  - {fileID: 2100000, guid: 9e3a744b10dda409384574fa46a9897d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -539,8 +539,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 97728697245da4620ba3190f2f1db2e1, type: 2}
-  - {fileID: 2100000, guid: 834a849d61c274969ade52af4de620c0, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -560,8 +560,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 677dfc72693c345daa38343508812b59, type: 2}
-  - {fileID: 2100000, guid: 9e3a744b10dda409384574fa46a9897d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -581,8 +581,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 677dfc72693c345daa38343508812b59, type: 2}
-  - {fileID: 2100000, guid: 9e3a744b10dda409384574fa46a9897d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -602,8 +602,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 677dfc72693c345daa38343508812b59, type: 2}
-  - {fileID: 2100000, guid: 9e3a744b10dda409384574fa46a9897d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -623,8 +623,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 677dfc72693c345daa38343508812b59, type: 2}
-  - {fileID: 2100000, guid: 9e3a744b10dda409384574fa46a9897d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -644,8 +644,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 07ea3a9e57c11411191991ba665ef33b, type: 2}
-  - {fileID: 2100000, guid: d2933d5b3e53f4fb980ce4f8cd1f5d5a, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -665,8 +665,8 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 677dfc72693c345daa38343508812b59, type: 2}
-  - {fileID: 2100000, guid: 9e3a744b10dda409384574fa46a9897d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -949,7 +949,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300010, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400002
 MeshCollider:
@@ -962,7 +962,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300006, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400004
 MeshCollider:
@@ -975,7 +975,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300014, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400006
 MeshCollider:
@@ -988,7 +988,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300002, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400008
 MeshCollider:
@@ -1001,7 +1001,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300004, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400010
 MeshCollider:
@@ -1014,7 +1014,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300018, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400012
 MeshCollider:
@@ -1027,7 +1027,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300020, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400014
 MeshCollider:
@@ -1040,7 +1040,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300016, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400016
 MeshCollider:
@@ -1053,7 +1053,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300022, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400018
 MeshCollider:
@@ -1066,7 +1066,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300012, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400020
 MeshCollider:
@@ -1079,7 +1079,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300024, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!64 &6400022
 MeshCollider:
@@ -1092,7 +1092,7 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 4300008, guid: 6c8a1688e23304827b94aae487d35211, type: 3}
 --- !u!114 &11400000
 MonoBehaviour:
