@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: c59de975f90ad485080c7b063b9095d3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube_dest_all:Cube_After:Cube_After
+    100004: Cube_dest_all:Cube_After:Cube_After_001
+    100006: Cube_dest_all:Cube_After:Cube_After_002
+    100008: Cube_dest_all:Cube_After:Cube_After_003
+    100010: Cube_dest_all:Cube_After:Cube_After_004
+    100012: Cube_dest_all:Cube_After:Cube_After_006
+    100014: Cube_dest_all:Cube_After:Cube_After_007
+    100016: Cube_dest_all:Cube_After:Cube_After_008
+    100018: Cube_dest_all:Cube_After:Cube_After_009
+    100020: Cube_dest_all:Cube_Before_pivot:Cube_before
+    100022: Cube_dest_all:Cube_Before_pivot:Cube_Before_pivot
+    400000: //RootNode
+    400002: Cube_dest_all:Cube_After:Cube_After
+    400004: Cube_dest_all:Cube_After:Cube_After_001
+    400006: Cube_dest_all:Cube_After:Cube_After_002
+    400008: Cube_dest_all:Cube_After:Cube_After_003
+    400010: Cube_dest_all:Cube_After:Cube_After_004
+    400012: Cube_dest_all:Cube_After:Cube_After_006
+    400014: Cube_dest_all:Cube_After:Cube_After_007
+    400016: Cube_dest_all:Cube_After:Cube_After_008
+    400018: Cube_dest_all:Cube_After:Cube_After_009
+    400020: Cube_dest_all:Cube_Before_pivot:Cube_before
+    400022: Cube_dest_all:Cube_Before_pivot:Cube_Before_pivot
+    2300000: Cube_dest_all:Cube_After:Cube_After_001
+    2300002: Cube_dest_all:Cube_After:Cube_After_002
+    2300004: Cube_dest_all:Cube_After:Cube_After_003
+    2300006: Cube_dest_all:Cube_After:Cube_After_004
+    2300008: Cube_dest_all:Cube_After:Cube_After_006
+    2300010: Cube_dest_all:Cube_After:Cube_After_007
+    2300012: Cube_dest_all:Cube_After:Cube_After_008
+    2300014: Cube_dest_all:Cube_After:Cube_After_009
+    2300016: Cube_dest_all:Cube_Before_pivot:Cube_before
+    3300000: Cube_dest_all:Cube_After:Cube_After_001
+    3300002: Cube_dest_all:Cube_After:Cube_After_002
+    3300004: Cube_dest_all:Cube_After:Cube_After_003
+    3300006: Cube_dest_all:Cube_After:Cube_After_004
+    3300008: Cube_dest_all:Cube_After:Cube_After_006
+    3300010: Cube_dest_all:Cube_After:Cube_After_007
+    3300012: Cube_dest_all:Cube_After:Cube_After_008
+    3300014: Cube_dest_all:Cube_After:Cube_After_009
+    3300016: Cube_dest_all:Cube_Before_pivot:Cube_before
+    4300000: Cube_dest_all:Cube_Before_pivot:Cube_before
+    4300002: Cube_dest_all:Cube_After:Cube_After_001
+    4300004: Cube_dest_all:Cube_After:Cube_After_002
+    4300006: Cube_dest_all:Cube_After:Cube_After_003
+    4300008: Cube_dest_all:Cube_After:Cube_After_004
+    4300010: Cube_dest_all:Cube_After:Cube_After_006
+    4300012: Cube_dest_all:Cube_After:Cube_After_007
+    4300014: Cube_dest_all:Cube_After:Cube_After_008
+    4300016: Cube_dest_all:Cube_After:Cube_After_009
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
